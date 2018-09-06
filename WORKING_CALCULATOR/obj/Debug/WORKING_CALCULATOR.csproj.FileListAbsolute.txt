@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\bin\Debug\WORKING_CALCULATOR.exe.config
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\bin\Debug\WORKING_CALCULATOR.exe
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\bin\Debug\WORKING_CALCULATOR.pdb
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\obj\Debug\WORKING_CALCULATOR.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\obj\Debug\WORKING_CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\obj\Debug\WORKING_CALCULATOR.exe
+C:\Users\Benjamin\source\repos\WORKING_CALCULATOR\WORKING_CALCULATOR\obj\Debug\WORKING_CALCULATOR.pdb
